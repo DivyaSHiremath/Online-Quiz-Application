@@ -12,7 +12,8 @@ Create a MySQL database named quiz and update src/main/resources/application.pro
 
 Run the application using Maven:mvn spring-boot:run
 
-Technologies
+
+## Technologies
 
 - **Spring Boot**: For the backend framework.
 - **Thymeleaf**: Template engine for rendering views.
